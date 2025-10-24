@@ -5,7 +5,7 @@ export const themeConfig: ThemeConfig = {
   site: {
     website: 'https://astro-chiri.netlify.app/', // Site domain
     title: 'CHIRI', // Site title
-    author: '3ASH', // Author name
+    author: 'Ezra Ravin Mateus', // Author name
     description: 'Minimal blog built by Astro', // Site description
     language: 'en-US' // Default language
   },
