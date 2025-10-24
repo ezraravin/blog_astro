@@ -1,6 +1,6 @@
 ---
 title: 'WeFlect, a story of reflection'
-pubDate: '2025-05-19'
+pubDate: '2025-08-22'
 ---
 
 ## Redesigning Reflection: Our Weird, Ambitious Quest to Save Humanity
