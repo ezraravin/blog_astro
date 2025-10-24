@@ -3,7 +3,7 @@ title: 'WeFlect, a story of reflection'
 pubDate: '2025-05-19'
 ---
 
-# **Redesigning Reflection: Our Weird, Ambitious Quest to Save Humanity**
+## Redesigning Reflection: Our Weird, Ambitious Quest to Save Humanity
 
 Alright, let's get real. Let me tell you the story of WeFlect ID, the startup with a mission to be "the last hope for humanity's reflective experience"... and how we spent a good part of our time at a pitching competition explaining to people what "reflective experience" even meant. LOL.
 
